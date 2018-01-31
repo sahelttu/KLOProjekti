@@ -1,0 +1,2 @@
+# KLOProjekti
+Käyttöliittymäohjelmoinnin kurssityö.
